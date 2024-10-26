@@ -1,0 +1,249 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.Order{
+   color: dimgray;
+    font-size: 2rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+}
+
+
+.myfont {
+  font-family: "Sixtyfour Convergence", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "BLED" 0,
+    "SCAN" 0,
+    "XELA" 0,
+    "YELA" 0;
+    color: dimgray;
+}
+
+  .Home{
+   color: dimgrey;
+    font-size: 2rem;
+    text-decoration: none;
+  }
+
+  .nav{
+    display: flex;
+   background-color: darkkhaki;
+    height: 10dvh;
+    align-items: center;
+    justify-content: space-evenly;
+
+  }
+
+
+
+.main{
+    display: flex;
+    align-items: center;
+    height: 90dvh;
+   
+    background-image: url('https://image.slidesdocs.com/responsive-images/background/coffee-splash-coffee-beans-four-flying-dynamic-powerpoint-background_f65f0377b1__960_540.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    justify-content: center;
+    
+}
+.parentmain{
+   height: 70dvh;
+   width: 80%;
+   background-color: azure;
+   border-radius: 1.5rem;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+.gambar{
+    height: 30dvh;
+    width: 40dvh;
+}
+
+img{
+    height: 100%;
+    width: 100%;
+    border-radius: 8px 8px 0 0;
+
+}
+
+.parentcontent{
+   padding: 50px;
+}
+.content{
+    height: 60dvh;
+    width: 100%;
+    background-color: rgba(243, 239, 239, 0.884);
+    border-radius: 8px;
+    padding: 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.ket{
+display: flex;
+flex-direction: column;
+gap: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

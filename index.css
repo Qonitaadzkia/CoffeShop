@@ -1,0 +1,219 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.Order{
+   color: dimgray;
+    font-size: 2rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+}
+
+
+.myfont {
+  font-family: "Sixtyfour Convergence", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "BLED" 0,
+    "SCAN" 0,
+    "XELA" 0,
+    "YELA" 0;
+    color: dimgray;
+}
+
+  .Home{
+   color: dimgrey;
+    font-size: 2rem;
+    text-decoration: none;
+  }
+
+  .nav{
+    display: flex;
+   background-color: darkkhaki;
+    height: 10dvh;
+    align-items: center;
+    justify-content: space-evenly;
+
+  }
+
+
+
+.main{
+    display: flex;
+    align-items: center;
+    height: 90dvh;
+    background-color:blue;
+    background-image: url('https://static.vecteezy.com/system/resources/previews/011/332/525/non_2x/hand-drawn-coffee-concept-background-free-vector.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.parentmain{
+    display: block;
+    margin-left: 20px;
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
